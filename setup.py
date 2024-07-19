@@ -27,6 +27,7 @@ setup(
         "shape",
         "triangle",
         "circle",
+        "factory pattern",
         "pi",
     ],
     classifiers=[
