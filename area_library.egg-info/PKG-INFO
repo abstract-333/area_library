@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: area-library
+Version: 0.0.1
+Summary: Area Python package
+Author: Bashar Hasan
+Author-email: <basharhasan74@gmail.com>
+Keywords: python,area,shape,triangle,circle,pi
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+
+Area Python package to get area on different area_library using visitor pattern
